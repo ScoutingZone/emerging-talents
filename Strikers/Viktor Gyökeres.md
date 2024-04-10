@@ -23,6 +23,10 @@
 
 - Rating: 81
 - Potential: 86
-- User feedback: 89
+
 ---
+
+### User Feedback
+
+- Potential: 89
 ![image](https://github.com/FCZone/emerging-talents/assets/166504863/09bb1daf-7f14-4d60-9044-87c9fefaf71e)
